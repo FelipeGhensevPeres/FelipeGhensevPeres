@@ -23,7 +23,7 @@ Evoluir um pouco todos os dias, construindo projetos reais e aprendendo na prát
 ---
 
 ## 🌐 Onde me encontrar
-- 💼 LinkedIn: *(in/felipe-ghensev-peres-7a7427343/)*  
+- 💼 LinkedIn: *[(in/felipe-ghensev-peres-7a7427343/)](https://www.linkedin.com/in/felipe-ghensev-peres-7a7427343/)*  
 - 🧠 GitHub: aqui mesmo kkkkkk  
 
 ---
