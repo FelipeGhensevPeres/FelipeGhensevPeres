@@ -13,7 +13,6 @@ Gosto de criar projetos práticos que me ajudem a entender melhor como as coisas
 ## 🚀 Projetos em destaque
 - 💬 **MasterZap** — chat web com Flask  
 - 🎄 **Christmas Countdown Bot** — automação com Python e SMS  
-- ✋ **Reconhecimento de mãos** — visão computacional com OpenCV  
 
 ---
 
