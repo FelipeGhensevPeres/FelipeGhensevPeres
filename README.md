@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Felipe!
 
-Sou estudante de programação e desenvolvedor em formação, com foco em **Python**, **desenvolvimento backend**.
+Sou estudante de programação e desenvolvedor em formação, com foco em **Python**.
 
 Gosto de criar projetos práticos que me ajudem a entender melhor como as coisas funcionam por trás, desde o código até o deploy.
 
