@@ -1,28 +1,39 @@
 # 👋 Olá, eu sou o Felipe!
 
-Sou estudante de programação e desenvolvedor em formação, com foco em **Python**.
+Sou estudante de programação e desenvolvedor em formação, focado em **Python**.
 
-Gosto de criar projetos práticos que me ajudem a entender melhor como as coisas funcionam por trás, desde o código até o deploy.
+Atualemente fazendo faculdade de analise e desenvolvimento de sistemas no Mackenzie.
 
 ---
 
-## 🧠 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
+## 🧠 Tecnologias e estudos atuais
+- Python
+- Git & GitHub
+- HTML + CSS
+- MySQL, SQL Server, Postgre SQL
+- Conceitos de Cloud (AWS e Google Cloud)
 
 ---
 
 ## 🚀 Projetos em destaque
-- 
-- 
+
+### 💬 MasterZap
+Chat web inspirado no WhatsApp, com interface moderna e respostas baseadas em uma base de conhecimento.
 
 ---
 
-## 📌 Objetivo
-Evoluir um pouco todos os dias, construindo projetos reais e aprendendo na prática.
+### 🎄 Christmas Countdown Bot
+Automação em Python que envia diariamente um SMS informando quantos dias faltam para o Natal.
+
+- Execução automática via Agendador de Tarefas
+- Integração com API de envio de mensagens
+
+
+## 🎯 Objetivo
+Evoluir constantemente como desenvolvedor, criando projetos práticos e cada vez mais completos.
 
 ---
 
 ## 🌐 Onde me encontrar
-- 💼 LinkedIn: *[(in/felipe-ghensev-peres-7a7427343/)](https://www.linkedin.com/in/felipe-ghensev-peres-7a7427343/)*  
-- 🧠 GitHub: aqui mesmo kkkkkk  
-
----
+- 💼 LinkedIn: (https://www.linkedin.com/in/felipe-ghensev-peres-7a7427343/)
+- 💻 GitHub: https://github.com/FelipeGhensevPeres
