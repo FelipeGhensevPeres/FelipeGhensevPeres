@@ -34,6 +34,8 @@ Automação em Python que envia diariamente um SMS informando quantos dias falta
 - Execução automática via Agendador de Tarefas
 - Integração com API de envio de mensagens
 
+🔗 Link: https://github.com/FelipeGhensevPeres/christmas-countdown-bot
+
 ## 🎯 Objetivo
 Evoluir constantemente como desenvolvedor, criando projetos práticos e cada vez mais completos.
 
