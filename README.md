@@ -17,12 +17,22 @@ Atualemente fazendo faculdade de analise e desenvolvimento de sistemas no Macken
 
 ## 🚀 Projetos em destaque
 
+### 📊 Automação de Relatórios de Vendas
+Projeto em Python que automatiza o processamento de dados de vendas e envia relatórios por e-mail.
+
+- Leitura e tratamento de dados (Excel/CSV)
+- Cálculo de faturamento diário e anual
+- Geração de rankings
+- Envio automático de e-mails com relatório
+
+🔗 Link: https://github.com/FelipeGhensevPeres/Python-Automacao-Email-Vendas
+
+
 ### 🎄 Christmas Countdown Bot
 Automação em Python que envia diariamente um SMS informando quantos dias faltam para o Natal.
 
 - Execução automática via Agendador de Tarefas
 - Integração com API de envio de mensagens
-
 
 ## 🎯 Objetivo
 Evoluir constantemente como desenvolvedor, criando projetos práticos e cada vez mais completos.
