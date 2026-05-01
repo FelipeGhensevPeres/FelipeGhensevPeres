@@ -17,11 +17,6 @@ Atualemente fazendo faculdade de analise e desenvolvimento de sistemas no Macken
 
 ## 🚀 Projetos em destaque
 
-### 💬 MasterZap
-Chat web inspirado no WhatsApp, com interface moderna e respostas baseadas em uma base de conhecimento.
-
----
-
 ### 🎄 Christmas Countdown Bot
 Automação em Python que envia diariamente um SMS informando quantos dias faltam para o Natal.
 
