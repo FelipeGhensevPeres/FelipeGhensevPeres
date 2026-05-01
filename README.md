@@ -2,7 +2,7 @@
 
 Sou estudante de programação e desenvolvedor em formação, focado em **Python**.
 
-Atualemente fazendo faculdade de analise e desenvolvimento de sistemas no Mackenzie.
+Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas no Mackenzie.
 
 ---
 
@@ -10,7 +10,7 @@ Atualemente fazendo faculdade de analise e desenvolvimento de sistemas no Macken
 - Python
 - Git & GitHub
 - HTML + CSS
-- MySQL, SQL Server, Postgre SQL
+- MySQL, SQL Server, PostgreSQL
 - Conceitos de Cloud (AWS e Google Cloud)
 
 ---
