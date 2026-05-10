@@ -9,7 +9,6 @@ Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas no Macken
 ## 🧠 Tecnologias e estudos atuais
 - Python
 - Git & GitHub
-- HTML + CSS
 - MySQL, SQL Server, PostgreSQL
 - Conceitos de Cloud (AWS e Google Cloud)
 
