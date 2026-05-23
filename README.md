@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Felipe!
 
-Sou estudante de programação e desenvolvedor em formação, focado em **Python**.
+Estudante de programação com foco em desenvolvimento back-end em **Python**, análise de dados e machine learning.
 
 Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas no Mackenzie.
 
@@ -9,7 +9,9 @@ Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas no Macken
 ## 🧠 Tecnologias e estudos atuais
 - Python
 - Git & GitHub
-- MySQL, SQL Server, PostgreSQL
+- SQL (MySQL, SQL Server, PostgreSQL)
+- Análise de Dados
+- Machine Learning
 - Conceitos de Cloud Computing (AWS e Google Cloud)
 
 ---
