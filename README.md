@@ -10,7 +10,7 @@ Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas no Macken
 - Python
 - Git & GitHub
 - MySQL, SQL Server, PostgreSQL
-- Conceitos de Cloud (AWS e Google Cloud)
+- Conceitos de Cloud Computing (AWS e Google Cloud)
 
 ---
 
@@ -24,6 +24,16 @@ Automação em Python que envia diariamente um SMS informando quantos dias falta
 - Integração com API de envio de mensagens
 
 🔗 Link: https://github.com/FelipeGhensevPeres/christmas-countdown-bot
+
+### Python Stock Control
+Sistema desktop de controle de estoque, desenvolvido em Python com interface gráfica e integração com SQlite DB
+
+- CRUD de insumos
+- Interface gráfica com TKinter
+- Integração com Banco de Dados
+- Projeto refatorado e melhorado estruturalmente
+
+🔗 Link: https://github.com/FelipeGhensevPeres/Python-Stock-Control
 
 ## 🎯 Objetivo
 Evoluir constantemente como desenvolvedor, criando projetos práticos e cada vez mais completos.
