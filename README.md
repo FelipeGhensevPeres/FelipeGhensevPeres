@@ -25,7 +25,7 @@ Automação em Python que envia diariamente um SMS informando quantos dias falta
 
 🔗 Link: https://github.com/FelipeGhensevPeres/christmas-countdown-bot
 
-### Python Stock Control
+### 📦 Python Stock Control
 Sistema desktop de controle de estoque, desenvolvido em Python com interface gráfica e integração com SQlite DB
 
 - CRUD de insumos
