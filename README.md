@@ -18,15 +18,6 @@ Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas no Macken
 
 ## 🚀 Projetos em destaque
 
-
-### 🎄 Christmas Countdown Bot
-Automação em Python que envia diariamente um SMS informando quantos dias faltam para o Natal.
-
-- Execução automática via Agendador de Tarefas
-- Integração com API de envio de mensagens
-
-🔗 Link: https://github.com/FelipeGhensevPeres/christmas-countdown-bot
-
 ### 📦 Python Stock Control
 Sistema desktop de controle de estoque, desenvolvido em Python com interface gráfica e integração com SQlite DB
 
